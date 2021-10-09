@@ -1,4 +1,4 @@
-- Welcome to the up and coming software developer breaking bank and compilers
+- Welcome to the one and only breaking bank and compilers
  
 
 <!---
